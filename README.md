@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi, I'm Chad Bell 👋
 
-<!--
-**CBell045/CBell045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Student, Data Consultant, and Python enthusiast. If you need help with dashboards, AI, or automation, let me know!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I was raised in a family of entrepreneurs, which ignited my passion for helping small businesses automate their processes and visualize their data. I also enjoy my family, playing frisbee, and serving in my church.
+
+- **Location:** Phoenix, AZ
+- **Age:** 22
+- **Degree:** Computer Science
+- **Freelance:** Available
+
+## Programming Languages
+
+My specialty is Python, including Pandas, Jupyter Notebooks, Plotly Dash, and web scraping with Beautiful Soup. I'm also skilled in R (for data analysis and visualization) and SQL.
+
+- Python: ⭐⭐⭐⭐⭐
+- SQL: ⭐⭐⭐⭐
+- R: ⭐⭐⭐
