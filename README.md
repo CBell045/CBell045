@@ -15,5 +15,8 @@ I was raised in a family of entrepreneurs, which ignited my passion for helping 
 
 My specialty is Python, including Polars, PySpark, Pandas, Plotly Dash, and Streamlit. I'm also skilled in R (for data analysis and visualization) and SQL.
 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+<div align = 'center'>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="50" width="50" >
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" height="50" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height="50" width="50" >
+</div>
