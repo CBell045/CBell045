@@ -1,30 +1,9 @@
-# Hi, I'm Chad Bell 👋
+hey there 👋 i'm **Chad Bell**
 
-I'm a Data Consultant, Data Engineer, and Python enthusiast. If you need help with dashboards, AI/ML, or data wrangling, let me know!
+i’m a data engineer / software developer
 
-## About Me
+- m.s. in analytics from Georgia Tech (est. 2026)
+- lead developer at DataThink.io
+- based out of Amarillo, TX
 
-I was raised in a family of entrepreneurs, which ignited my passion for helping businesses build pipelines and visualize their data. I also love my family, playing frisbee, and serving in my church.
-
-- **Location:** Phoenix, AZ
-- **Age:** 23
-- **Degree:** B.S. Computer Science, M.S. Analytics (currently enrolled in GT OMSA)
-- **Freelance:** Available
-
-## Programming Languages
-
-My specialty is Python, including Polars & Pandas (wrangling), Plotly & Dash (visualization), and TensorFlow & PyTorch (machine learning). I'm also skilled in R, SQL, and full-stack development.
-
-
-<div align = 'center' >
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="50" width="50" > &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" height="50" width="50" > &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" height="50" width="50" > &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original-wordmark.svg" height="50" width="50" > &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original-wordmark.svg" height="50" width="50" > &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height="50" width="50" > &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="50" width="50" > &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="50" width="50" > &nbsp;&nbsp;
-          
-          
-</div>
+i love startups, clean code, and good people
